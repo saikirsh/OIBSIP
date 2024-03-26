@@ -11,3 +11,18 @@ The fun and easy project "Guess the Number" is a short Java project that allows 
 4. The game continues under the user guessing the number. You can also incorporate further details as:.
 
 Limiting the number of attempts. Adding more rounds. Displaying score. Giving points based on the number of
+
+
+ATM INTERFACE
+
+We have all come across ATMs in our cities and it is built on Java. This complex project consists of five different classes and is a console-based application. When the system starts the user is prompted with user id and user pin. On entering the detalls successfully, then ATM functionalities are unlocked. The project allows to perform following operations
+
+1. Transactions History
+
+2. Withdraw
+
+3. Deposit
+
+4. Transfer
+
+5. QUIT
